@@ -6,4 +6,8 @@ def square(y):
 
 	return(y ** 2)
 
-print(square(24))
+def square2(x):
+	return(x * x)
+
+print(square(42))
+print(square2(42))
