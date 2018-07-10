@@ -1,8 +1,8 @@
-def square(x):
+def square(y):
 	""" takes a value and return the squared value.
 	
 	uses the ** operator
 	"""
-	return(x ** 2)
+	return(y ** 2)
 
-print(square(4))
+print(square(24))
